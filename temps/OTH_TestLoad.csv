@@ -1,0 +1,10 @@
+Enter Date,Document No,Item,Short Text,Order Quantity,Order Price,Order Amount,Supplier_Code,Supplier_Name,Enter By
+11/29/2018,,,Computer DELL,35,32500,1137500,,COMP TECH INTEGRATION SERVICES,OC-002
+11/28/2018,,,Computer DELL,10,35000,350000,,NTT,OC-002
+11/28/2018,,,Computerr DELL,15,35200,528000,,NTT Datacom,OC-002
+11/29/2018,,,Printer EPSON 1455,1,15000,15000,,Zenith Comp,OC-002
+11/23/2018,3,10,Projector,2,35000,70000,,Computer Design,NULL
+11/12/2018,2,10,Router,1,9800,9800,,IT - 007,NULL
+11/12/2018,1,10,เครื่องคอมพิวเตอร์พกพาขนาดเล็ก,5,4500,22500,,โอเอ 007,NULL
+11/07/2018,18NOV-01/123,10,อุปกรณ์,3,650.5,1951.5,,ไอที,NULL
+11/07/2018,2018-NOV-123,10,อุปกรณ์สำรองข้อมูล,5,128.25,641.25,,ไอทีซิตี้,NULL

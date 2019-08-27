@@ -1,0 +1,6 @@
+Document Date,purchasing document,item,material,short text,order quantity,order unit,currency,net price,net order value,plant,purchasing group,purchasing organization,price unit,supplier_code,supplier_name
+11/16/2018,4500188888,10,,Test, 1.00 ,SET,THB," 28,500.00 "," 28,500.00 ",RB11,RB1,RB00,1,BG00012100,CHANWATTANA  SCALE SALE
+11/20/2018,4500188889,10,,Test, 1.00 ,JOB,THB," 30,000.00 "," 30,000.00 ",RB11,RB3,RB00,1,BG00012100,CHANWATTANA  SCALE SALE
+10/10/2018,4500188887,30,,Test, -   ,EA,THB, -   , -   ,RB11,RB2,RB00,1,BG00012328,ALPHA TECHNOLOGY & ENGIN
+01/10/2018,4500117300,10,,Calibration for  Color Flex EZ, 1.00 ,EA,THB," 11,000.00 "," 11,000.00 ",RB11,RB3,RB00,1,BG00012397,"COLOR GLOBAL CO., LTD."
+08/20/2018,4500134456,10,,"""Tuthill""Internal gear pump", 1.00 ,SET,THB," 485,000.00 "," 485,000.00 ",RB11,RB2,RB00,1,BG00012451,FLUID ADVANCE (THAILAND)
